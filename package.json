@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/WarenGonzaga/gitbook.js/issues"
   },
-  "homepage": "https://github.com/WarenGonzaga/gitbook.js#readme"
+  "homepage": "https://github.com/WarenGonzaga/gitbook.js#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
 }
